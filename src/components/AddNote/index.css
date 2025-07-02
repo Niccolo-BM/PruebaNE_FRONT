@@ -1,0 +1,6 @@
+.add-note-modal-open {
+  display: block;
+}
+.add-note-modal-closed {
+  display: none;
+}

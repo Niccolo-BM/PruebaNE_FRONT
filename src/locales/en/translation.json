@@ -1,0 +1,42 @@
+{
+  "header": {
+    "title": "NOTES STREAM",
+    "subtitle": "Got your ideas, save them here",
+    "logout": "Log Out",
+    "toggleLang": "ES"
+  },
+  "addNote": {
+    "title": "Add Note",
+    "description": "Add a note for collections, incidents or maintenance to keep better control and tracking.",
+    "newButton": "New Note"
+  },
+  "modal": {
+    "title": "Register information about collections, incidents or maintenance",
+    "typeLabel": "Record Type",
+    "selectPlaceholder": "Select",
+    "option": {
+      "collection": "Collection",
+      "incident": "Incident",
+      "maintenance": "Maintenance"
+    },
+    "titleLabel": "Title",
+    "titlePlaceholder": "e.g. Collection Route 15A",
+    "routeLabel": "Route",
+    "routePlaceholder": "e.g. Route 15A - Downtown",
+    "amountLabel": "Collected Amount",
+    "amountPlaceholder": "e.g. $50,000",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Describe the record details...",
+    "submit": "Save Note",
+    "cancel": "Cancel"
+  },
+  "list": {
+    "notesTitle": "Notes",
+    "total": "Total",
+    "noNotes": "No notes yet",
+    "confirmDeleteTitle": "Are you sure you want to delete this note?",
+    "confirmDeleteContent": "This action cannot be undone.",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  }
+}

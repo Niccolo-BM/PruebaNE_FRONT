@@ -1,0 +1,42 @@
+{
+  "header": {
+    "title": "FLUJO DE NOTAS",
+    "subtitle": "Tus ideas, guardadas aquí",
+    "logout": "Cerrar sesión",
+    "toggleLang": "EN"
+  },
+  "addNote": {
+    "title": "Añadir Nota",
+    "description": "Añade una nota sobre recaudos, incidencias o mantenimientos para llevar un mejor control y seguimiento.",
+    "newButton": "Nueva Nota"
+  },
+  "modal": {
+    "title": "Registra información sobre recaudos, incidencias o mantenimiento",
+    "typeLabel": "Tipo de Registro",
+    "selectPlaceholder": "Seleccione",
+    "option": {
+      "collection": "Recaudo",
+      "incident": "Incidencia",
+      "maintenance": "Mantenimiento"
+    },
+    "titleLabel": "Título",
+    "titlePlaceholder": "Ej: Recaudo Ruta 15A",
+    "routeLabel": "Ruta",
+    "routePlaceholder": "Ej: Ruta 15A - Centro",
+    "amountLabel": "Monto Recaudado",
+    "amountPlaceholder": "Ej: $50,000",
+    "descriptionLabel": "Descripción",
+    "descriptionPlaceholder": "Describe los detalles del registro...",
+    "submit": "Guardar Nota",
+    "cancel": "Cancelar"
+  },
+  "list": {
+    "notesTitle": "Notas",
+    "total": "Total",
+    "noNotes": "No hay notas aún",
+    "confirmDeleteTitle": "¿Seguro que quieres eliminar esta nota?",
+    "confirmDeleteContent": "Esta acción no se puede deshacer.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  }
+}
